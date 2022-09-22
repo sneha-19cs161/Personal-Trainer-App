@@ -1,4 +1,4 @@
-# Personal-Trainer-App
+# Personal-Trainer-Template
 
 A personal trainer template that offers live, one-on-one personal training sessions to guide and enhance your exercise routine and help you meet your wellness goals.
 
